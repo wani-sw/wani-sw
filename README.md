@@ -3,9 +3,8 @@
 - 🌱 I’m currently learning the fundamentals of IT by actively applying concepts to labs
 - 💞️ I’m hoping to learn how to build projects that matter, and be able to understand what needs work
 
-Don't really know how to use GitHub yet, but looking to learn. 
-
-There always seems to be more and more to learn, and the more I learn the less I seem to know.
+Updating through the end of 2025 to 2026. Focus on Networking labs, and the development of simple programs. 
+Fluent in English, with a proficency in Japanese.
 
 
 <!---
