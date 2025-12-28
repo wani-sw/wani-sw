@@ -1,10 +1,16 @@
 - 👋 Hi, I’m @wani-sw
 - 👀 I’m interested in IT infrastructure, coding and networking
-- 🌱 I’m currently learning the fundamentals of IT by actively applying concepts to labs
-- 💞️ I’m hoping to learn how to build projects that matter, and be able to understand what needs work
+- 🌱 I’m currently improving my fundamentals of IT and improving my understanding of computer networking, security, and programming.
+-
+-Certifications:
+- CompTIA A+, Network+, Security+
+- AWS Cloud Practicioner
+- Google IT Support / Cybersecurity
 
 Updating through the end of 2025 to 2026. Focus on Networking labs, and the development of simple programs. 
 Fluent in English, with a proficency in Japanese.
+
+This will be where I save project
 
 
 <!---
