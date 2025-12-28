@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wani-sw
 - 👀 I’m interested in IT infrastructure, coding and networking
 - 🌱 I’m currently improving my fundamentals of IT and improving my understanding of computer networking, security, and programming.
--
+
 -Certifications:
 - CompTIA A+, Network+, Security+
 - AWS Cloud Practicioner
