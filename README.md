@@ -10,7 +10,7 @@
 Updating through the end of 2025 to 2026. Focus on Networking labs, and the development of simple programs. 
 Fluent in English, with a proficency in Japanese.
 
-This will be where I save project
+This will be where I save projects: 
 
 
 <!---
